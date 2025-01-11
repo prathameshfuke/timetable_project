@@ -43,6 +43,11 @@ Future Enhancements
 Add a GUI for user-friendly input and timetable visualization.
 Support for dynamic constraints like teacher unavailability.
 Extend to handle more classes and custom schedules.
+
+
+
+
+
 Author
 Developed by Prathamesh Fuke.
 Feel free to reach out for collaboration or suggestions!
