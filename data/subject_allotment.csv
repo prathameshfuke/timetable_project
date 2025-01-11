@@ -1,0 +1,37 @@
+Grade,Subject,PeriodsPerWeek,RequiresSpecialRoom,RoomType
+Jr. KG,English,5,False,
+Jr. KG,Hindi,4,False,
+Jr. KG,Mathematics,4,False,
+Jr. KG,EVS,2,False,
+Jr. KG,Computer Studies,0.5,True,computer_lab
+Jr. KG,Circle Time,0.5,False,
+Jr. KG,Life Skill,0.5,False,
+Jr. KG,PE/CCA Sports,2,True,playground
+Jr. KG,Yoga,0.5,True,activity_room
+Jr. KG,Art,2,True,art_room
+Jr. KG,Clay modelling,1,True,art_room
+Jr. KG,Music,1,True,music_room
+Jr. KG,Dance,1,True,dance_room
+Jr. KG,Library,1,True,library
+Jr. KG,DEED,1,False,
+Jr. KG,Assembly,1,False,
+Jr. KG,Wonder time,1,False,
+Jr. KG,Environmental Education,2,False,
+Jr. KG,PLAY PEN,0.5,True,play_area
+Jr. KG,Role play,0.5,False,
+Sr. KG,English,5,False,
+Sr. KG,Hindi,4,False,
+Sr. KG,Mathematics,4.5,False,
+Sr. KG,EVS,3,False,
+Sr. KG,Computer Studies,0.5,True,computer_lab
+Class I,English,8,False,
+Class I,Hindi,6,False,
+Class I,Mathematics,7,False,
+Class I,Marathi,2,False,
+Class I,EVS,5,False,
+Class I,Computer Studies,2,True,computer_lab
+Class I,Circle Time,1,False,
+Class I,Life Skill,1,False,
+Class I,PE/CCA Sports,2,True,playground
+Class I,Yoga,1,True,activity_room
+Class I,KARATE,1,True,activity_room

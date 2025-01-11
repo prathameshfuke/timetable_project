@@ -1,0 +1,17 @@
+TeacherID,Name,Subjects,Grade,MaxHoursPerDay
+T001,Ms. Smith,English,Jr. KG;Sr. KG,6
+T002,Mr. Kumar,Hindi,Jr. KG;Sr. KG,6
+T003,Ms. Patel,Mathematics,Jr. KG;Sr. KG,6
+T004,Mr. Singh,Computer Studies,Jr. KG;Sr. KG;Class I,4
+T005,Ms. Johnson,EVS,Jr. KG;Sr. KG,6
+T006,Mr. Sharma,PE/CCA Sports,Jr. KG;Sr. KG;Class I,6
+T007,Ms. Yoga,Yoga,Jr. KG;Sr. KG;Class I,4
+T008,Mr. Art,Art;Clay modelling,Jr. KG;Sr. KG;Class I,6
+T009,Ms. Music,Music,Jr. KG;Sr. KG;Class I,6
+T010,Mr. Dance,Dance,Jr. KG;Sr. KG;Class I,6
+T011,Ms. Library,Library,Jr. KG;Sr. KG;Class I,6
+T012,Mr. English1,English,Class I,6
+T013,Ms. Hindi1,Hindi,Class I,6
+T014,Mr. Math1,Mathematics,Class I,6
+T015,Ms. Marathi,Marathi,Class I,6
+T016,Mr. EVS1,EVS,Class I,6
